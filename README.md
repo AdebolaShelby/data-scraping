@@ -1,6 +1,6 @@
 # web-scraping and data analysis
 
-To accomplish this task, we will employ Splinter for automated web browsing and Beautiful Soup for parsing HTML. The objective is to meticulously identify various HTML elements present on a webpage, including their respective IDs and class attributes. This knowledge will enable us to efficiently extract specific information, ranging from HTML tables to recurring elements, such as multiple news articles, found on the webpage.
+To complete this task, I will use Splinter for automated web browsing and Beautiful Soup for parsing HTML. The goal is to carefully identify different HTML elements on a webpage, along with their corresponding IDs and class attributes. This understanding will help me efficiently extract specific information, such as HTML tables or recurring elements like multiple news articles found on the webpage.
 
 **This challenge consists of two technical products.**
 
