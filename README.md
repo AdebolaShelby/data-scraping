@@ -14,6 +14,9 @@ To complete this task, I will use Splinter for automated web browsing and Beauti
     * Print the list in your notebook.
     * Store each title-and-preview pair in a Python dictionary and, give each dictionary two keys: title and preview.
 
+    * ![Store each title-and-preview pair](<Screenshot 2024-09-08 113134.png>)
+
+
 * Deliverable 2: Scrape and analyze Mars weather data, which exists in a table.
     * Use automated browsing to visit the Mars Temperature Data Site. Inspect the page to identify which elements to scrape.
     * Create a Beautiful Soup object and use it to scrape the data in the HTML table. 
@@ -35,10 +38,14 @@ To complete this task, I will use Splinter for automated web browsing and Beauti
         * What are the coldest and the warmest months on Mars (at the location of Curiosity)? To answer this question:
             * Find the average minimum daily temperature for all of the months.
             * Plot the results as a bar chart.
+            * ![Average minimum temperature](average_min_temp_by_month.png)
         * Which months have the lowest and the highest atmospheric pressure on Mars? To answer this question:
             * Find the average daily atmospheric pressure of all the months.
             * Plot the results as a bar chart.
+            * ![Average Pressure by month](average_pressure_by_month.png)
         * About how many terrestrial (Earth) days exist in a Martian year? To answer this question:
             * Consider how many days elapse on Earth in the time that Mars circles the Sun once.
             * Visually estimate the result by plotting the daily minimum temperature of each observation.
+            * ![Number of Terrestrial Days](daily_min_temp.png)
     * Export the DataFrame to a CSV file.
+        * ![csv file](<Screenshot 2024-09-08 131317.png>)
